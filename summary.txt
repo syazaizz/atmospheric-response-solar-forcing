@@ -1,4 +1,4 @@
-# **Summary**
+## Summary ##
 
 The main aim of this mini project was to investigate how variations in solar radiation influence Earth’s atmospheric state by modelling the
 climate system’s response to changes in incoming solar energy. To achieve this, I used the SpeedyWeather.jl global circulation model to first
@@ -20,8 +20,8 @@ atmosphere-ocean equilibration, as well as thermal inertia in the system and the
 all of which tend to suppress the temperature response. 
 
 In comparison, typical climate sensitivity values are often reported in the range of ~0.1-1.0 K/(W/m²), depending on timescale and feedback
-strength, consistent with assessments of climate response and feedback processes summarized by the **Intergovernmental Panel on Climate
-Change**, which emphasise the role of radiative forcing and feedback mechanisms in determining climate sensitivity. 
+strength, consistent with assessments of climate response and feedback processes summarized by the "Intergovernmental Panel on Climate
+Change", which emphasise the role of radiative forcing and feedback mechanisms in determining climate sensitivity. 
 
 Importantly, this project represents the final stage of a broader research framework that investigates how solar variability influences Earth’s
 climate system. In this context, variations in solar activity propagate through the heliosphere, modulating galactic cosmic ray flux and space
