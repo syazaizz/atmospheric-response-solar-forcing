@@ -14,12 +14,9 @@ extended the simulations to 365 days, which reduced noise but still primarily re
 In the final stage, I conducted long-duration simulations of 2000 days and increased the perturbation slightly to +0.2%
 (S = 1.002S, corresponding to ΔS ≈ 2.7 W/m²) to improve the signal-to-noise ratio while remaining within a physically
 realistic regime, allowing the system to partially adjust toward a new radiative balance. By comparing the control and
-perturbed simulations, I quantified the temperature response (ΔT) and derived a climate sensitivity of 
-
-λ ≈ 0.074 K/(W/m²). 
-
+perturbed simulations, I quantified the temperature response (ΔT) and derived a climate sensitivity of λ ≈ 0.11 K/(W/m²). 
 This positive value confirms a physically consistent warming response, while its relatively modest magnitude indicates that 
-the result reflects a transient adjustment rather than full equilibrium. The lower value compared to the typical climate
+the result reflects a transient adjustment rather than full equilibrium. The lower range value in the typical climate
 sensitivity values (~0.1-1.0 K/(W/m²)) based on "Intergovernmental Panel on Climate Change", could be explained by the finite
 simulation time, which is insufficient for complete atmosphere-ocean equilibration, as well as thermal inertia in the system
 and the simplified representation of feedback processes in the model, all of which tend to suppress the temperature
